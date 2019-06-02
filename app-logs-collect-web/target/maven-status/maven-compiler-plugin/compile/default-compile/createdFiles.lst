@@ -1,0 +1,3 @@
+com/edu/bigdata/AppLogCollectWebApplication.class
+com/edu/bigdata/config/WebMvcConfig.class
+com/edu/bigdata/controller/CollectLogController.class

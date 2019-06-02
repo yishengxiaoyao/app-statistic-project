@@ -1,0 +1,7 @@
+com/edu/bigdata/service/StatService.class
+com/edu/bigdata/model/StatBean.class
+com/edu/bigdata/config/WebMvcConfig.class
+com/edu/bigdata/VisualWebApplication.class
+com/edu/bigdata/controller/StatController.class
+com/edu/bigdata/repository/StatBeanRepository.class
+com/edu/bigdata/service/impl/StatServiceImpl.class
